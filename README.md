@@ -1,2 +1,6 @@
 # sample-easy-way
-it second try that i tryint to create a repository
+
+using system 
+using system.in
+varalaxmi.thota
+manohar.thota
